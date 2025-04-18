@@ -1,2 +1,2 @@
 # exment-momijiina-plugins
-Exment用のサンプルプラグイン
+Exment用のサンプルプラグインまとめ
