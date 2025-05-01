@@ -1,0 +1,11 @@
+{
+    "plugin_name": "AvatarDownload",
+    "uuid": "1615b950-2635-11f0-b5eb-0800200c9a66",
+    "plugin_view_name": "アバターファイルのダウンロード",
+    "description": "自分のアバターのファイルをダウンロードする",
+    "author": "momijiina",
+    "version": "1.0.0",
+    "plugin_type": "button",
+    "event_triggers": "form_menubutton_show",
+    "target_tables": "information"
+}
