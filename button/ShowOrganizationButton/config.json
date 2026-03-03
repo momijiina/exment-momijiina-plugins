@@ -1,0 +1,10 @@
+{
+    "plugin_name": "ShowOrganizationButton",
+    "plugin_view_name": "所属組織表示ボタン",
+    "description": "ログインユーザーの所属組織をアラートで表示するテストプラグインです。",
+    "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "author": "momijiina",
+    "version": "1.0.0",
+    "plugin_type": "button",
+    "event_triggers": "form_menubutton_show"
+}
