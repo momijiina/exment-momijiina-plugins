@@ -1,0 +1,10 @@
+{
+    "plugin_name": "InputDialog",
+    "uuid": "f8a1b2c3-d4e5-6789-abcd-ef0123456789",
+    "plugin_view_name": "入力ダイアログ",
+    "description": "詳細画面でダイアログを表示し、カラムの値を編集・保存できるボタンプラグインです。",
+    "author": "momijiina",
+    "version": "1.0.0",
+    "plugin_type": "button",
+    "event_triggers": "form_menubutton_show"
+}
