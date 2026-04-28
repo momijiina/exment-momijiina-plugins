@@ -1,0 +1,14 @@
+{
+    "plugin_name": "NotifyTestButton",
+    "uuid": "8a3f1d2e-4b6c-4e7a-9f15-0b2d3a4c5e60",
+    "plugin_view_name": "通知テストボタン",
+    "description": "クリックすると、ログインユーザーに対してテスト通知を1件追加します。",
+    "author": "momijiina",
+    "version": "1.0.0",
+    "plugin_type": "button",
+    "event_triggers": "grid_menubutton",
+    "target_tables": "information",
+    "label": "通知テスト送信",
+    "icon": "fa-bell",
+    "button_class": "btn-primary"
+}
